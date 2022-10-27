@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 150px;
+    background-color: red;
+    color: white;
+}
+
+p {
+    font-size: 35px;
+    background-color: white;
+    color: purple;
+
+}
